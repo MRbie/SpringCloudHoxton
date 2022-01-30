@@ -19,7 +19,7 @@
             <artifactId>spring-cloud-config-server</artifactId>
         </dependency>
 
-        <!-- 注册中心erueka -->
+        <!--   注册中心erueka   -->
         <dependency>
             <groupId>org.springframework.cloud</groupId>
             <artifactId>spring-cloud-starter-netflix-eureka-client</artifactId>
